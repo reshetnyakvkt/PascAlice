@@ -1,0 +1,24 @@
+
+03.04.2016 16:06:36
+user> Hi
+Really Complicated> Good day.
+user> What is your name? 
+Really Complicated> Try guessing first :-)
+user> Anna
+Really Complicated> I didn't understand that, master. How about telling me your name?
+user> Igor
+Really Complicated> Igor. Is that your name?
+user> yes
+Really Complicated> A simple "yes" or "no" will do the next time I ask you, ok? :-) Why didn't you say so so right away? :-)
+user> My name is Igor
+Really Complicated> Nice to meet you, Igor.
+Igor> What is my dog name? 
+Really Complicated> I don't answer questions other than about my name.
+Igor> LEARN MY dog IS Ivan
+Really Complicated> I didn't understand that, Igor. Try to find out my name. Ok I will learn that your dog is Ivan . <category> <pattern> <eval> WHAT IS IVAN</eval> </pattern> <template> <eval> MY dog </eval> <category> <pattern> <eval> WHO IS IVAN</eval> </pattern> <template> <eval> MY dog </eval> <category> <pattern> <eval> WHERE IS IVAN</eval> </pattern> <template> <eval> MY dog </eval> <category> <pattern> <eval> WHAT _ IS IVAN</eval> </pattern> <template> <eval> MY dog </eval>
+Igor> What is my dog name? 
+Really Complicated> I'm not here to answer questions, you know.
+Igor> Who is Ivan?
+Really Complicated> I didn't understand that, master. You have to understand that I'm just an example bot. Ok I will add that fact aboutWho to my database. <category> <pattern> <eval> WHAT IS IVAN</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHERE IS IVAN</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHO IS IVAN</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHAT _ IS IVAN</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHO</eval> </pattern> <template> <eval>I didn't understand that, Igor. Try to find out my name.</eval>
+Igor> Who is dog
+Really Complicated> I didn't understand that, master. Try to find out my name. Ok I will add that fact aboutWho to my database. <category> <pattern> <eval> WHAT IS DOG</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHERE IS DOG</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHO IS DOG</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHAT _ IS DOG</eval> </pattern> <template> <eval> Who </eval> <category> <pattern> <eval> WHO</eval> </pattern> <template> <eval>I didn't understand that, my lord. Try to find out my name.</eval>
